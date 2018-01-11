@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515623918 source:f:\facultate-an1\exercitii\lab9\lab9-i6\i-6.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
